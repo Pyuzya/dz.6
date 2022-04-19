@@ -1,0 +1,6 @@
+.refresh {
+  display: flex;
+}
+.refresh button {
+  margin-left: 10px;
+}
